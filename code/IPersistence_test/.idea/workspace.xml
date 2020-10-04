@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="240844cf-2d9f-4433-8e6b-0d390452be35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Library/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/Library/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hz8RithILaoaZ3oxXPBkxtNAuK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../IPersistence/src/main/java/com/lagou" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IPersistenceTest.testDelete">
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPersistenceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IPersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.testDelete" />
+        <item itemvalue="JUnit.IPersistenceTest.testUpdate" />
+        <item itemvalue="JUnit.IPersistenceTest.testInsert" />
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240844cf-2d9f-4433-8e6b-0d390452be35" name="Default Changelist" comment="" />
+      <created>1601002553110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601002553110</updated>
+      <workItem from="1601002554793" duration="16000000" />
+      <workItem from="1601131219408" duration="7312000" />
+      <workItem from="1601361129360" duration="10999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1601170133183">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="453" y="82" key="#com.intellij.ide.util.MemberChooser/0.23.1280.737@0.23.1280.737" timestamp="1601170133183" />
+    <state x="378" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601113295486">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="378" y="146" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.737@0.23.1280.737" timestamp="1601113295486" />
+    <state x="525" y="292" width="367" height="270" key="Github.ShareDialog" timestamp="1601781413919">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="525" y="292" width="367" height="270" key="Github.ShareDialog/0.23.1280.737@0.23.1280.737" timestamp="1601781413919" />
+    <state width="1236" height="211" key="GridCell.Tab.0.bottom" timestamp="1601780658262">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1236" height="221" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1601172477876" />
+    <state width="1236" height="294" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1601779564508" />
+    <state width="1236" height="211" key="GridCell.Tab.0.bottom/0.23.1280.739@0.23.1280.739" timestamp="1601780658262" />
+    <state width="1236" height="211" key="GridCell.Tab.0.center" timestamp="1601780658261">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1236" height="221" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1601172477875" />
+    <state width="1236" height="294" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1601779564507" />
+    <state width="1236" height="211" key="GridCell.Tab.0.center/0.23.1280.739@0.23.1280.739" timestamp="1601780658261" />
+    <state width="1236" height="211" key="GridCell.Tab.0.left" timestamp="1601780658261">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1236" height="221" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1601172477875" />
+    <state width="1236" height="294" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1601779564507" />
+    <state width="1236" height="211" key="GridCell.Tab.0.left/0.23.1280.739@0.23.1280.739" timestamp="1601780658261" />
+    <state width="1236" height="211" key="GridCell.Tab.0.right" timestamp="1601780658262">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state width="1236" height="221" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1601172477876" />
+    <state width="1236" height="294" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1601779564508" />
+    <state width="1236" height="211" key="GridCell.Tab.0.right/0.23.1280.739@0.23.1280.739" timestamp="1601780658262" />
+    <state width="1236" height="2" key="GridCell.Tab.1.bottom" timestamp="1601779305566">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.bottom/0.23.1280.737@0.23.1280.737" timestamp="1601132387930" />
+    <state width="1236" height="2" key="GridCell.Tab.1.bottom/0.23.1280.738@0.23.1280.738" timestamp="1601779305566" />
+    <state width="1236" height="2" key="GridCell.Tab.1.center" timestamp="1601779305565">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.center/0.23.1280.737@0.23.1280.737" timestamp="1601132387930" />
+    <state width="1236" height="2" key="GridCell.Tab.1.center/0.23.1280.738@0.23.1280.738" timestamp="1601779305565" />
+    <state width="1236" height="2" key="GridCell.Tab.1.left" timestamp="1601779305564">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.left/0.23.1280.737@0.23.1280.737" timestamp="1601132387929" />
+    <state width="1236" height="2" key="GridCell.Tab.1.left/0.23.1280.738@0.23.1280.738" timestamp="1601779305564" />
+    <state width="1236" height="2" key="GridCell.Tab.1.right" timestamp="1601779305565">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1236" height="220" key="GridCell.Tab.1.right/0.23.1280.737@0.23.1280.737" timestamp="1601132387930" />
+    <state width="1236" height="2" key="GridCell.Tab.1.right/0.23.1280.738@0.23.1280.738" timestamp="1601779305565" />
+    <state x="185" y="23" key="SettingsEditor" timestamp="1601130613768">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="185" y="23" key="SettingsEditor/0.23.1280.737@0.23.1280.737" timestamp="1601130613768" />
+    <state x="0" y="89" key="new project wizard" timestamp="1601781391476">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="0" y="89" key="new project wizard/0.23.1280.737@0.23.1280.737" timestamp="1601781391476" />
+    <state x="305" y="86" width="670" height="676" key="search.everywhere.popup" timestamp="1601778087078">
+      <screen x="0" y="23" width="1280" height="739" />
+    </state>
+    <state x="305" y="86" width="670" height="676" key="search.everywhere.popup/0.23.1280.739@0.23.1280.739" timestamp="1601778087078" />
+  </component>
+</project>
